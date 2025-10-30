@@ -94,7 +94,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 ## 📝 Licença
 
 Este projeto está sob a licença [MIT](LICENSE).
-
----
-
-<p align="center">Feito com ❤️ e JavaScript</p>
