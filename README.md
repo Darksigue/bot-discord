@@ -15,10 +15,10 @@ Clone o repositório e instale as dependências:
 
 ```bash
 # Clone o repositório
-git clone <seu-repositorio>
+git clone https://github.com/Darksigue/bot-discord
 
 # Entre no diretório do projeto
-cd <nome-do-projeto>
+cd bot-discord
 
 # Instale as dependências
 yarn
