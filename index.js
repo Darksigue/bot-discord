@@ -127,7 +127,8 @@ client.on(Events.InteractionCreate, async (interaction) => {
 -# - <:hourglass:1432490224000172184> **${prazo}**
 -#  **${info}**
 
--# **Não assuma Tasks que você não consiga entregar ou para as quais não tenha as competências necessárias.**
+-# :warning: **Não assuma Tasks que você não consiga entregar ou para as quais não tenha as competências necessárias. É obrigatório que ela tenha mais de 18 anos.**
+-# :warning: **Se a pessoa convidada não for de confiança ou não permanecer e participar, você receberá feedback negativo. E caso contrário, além do feedback positivo, você será recompensado(a).**
 `;
 
       const embed = new EmbedBuilder()
